@@ -1,0 +1,74 @@
+{
+    "Who is Yasir Khan?": {
+        "question": "Who is Yasir Khan?",
+        "answer": "A Billionaire",
+        "correct": 3,
+        "wrong": 1
+    },
+    "The Brain of computer is called:": {
+        "question": "The Brain of computer is called:",
+        "answer": "CPU",
+        "correct": 4,
+        "wrong": 0
+    },
+    "Who made the first atomic bomb?": {
+        "question": "Who made the first atomic bomb?",
+        "answer": "Oppenheimer",
+        "correct": 3,
+        "wrong": 0
+    },
+    "when did pakistan won World Cup?": {
+        "question": "when did pakistan won World Cup?",
+        "answer": "1992",
+        "correct": 3,
+        "wrong": 0
+    },
+    "Who became the first president of Pakistan?": {
+        "question": "Who became the first president of Pakistan?",
+        "answer": "Muhammad Ali Jinnah",
+        "correct": 2,
+        "wrong": 1
+    },
+    "When did pakistan became a Nuclear power country?": {
+        "question": "When did pakistan became a Nuclear power country?",
+        "answer": "1998",
+        "correct": 3,
+        "wrong": 0
+    },
+    "when did Muslim League established?": {
+        "question": "when did Muslim League established?",
+        "answer": "1906",
+        "correct": 3,
+        "wrong": 0
+    },
+    "which city of Pakistan is most ancient?": {
+        "question": "which city of Pakistan is most ancient?",
+        "answer": "Multan",
+        "correct": 2,
+        "wrong": 1
+    },
+    "who is called the father of computer?": {
+        "question": "who is called the father of computer?",
+        "answer": "Charles Babbage",
+        "correct": 2,
+        "wrong": 1
+    },
+    "Super Computer belongs to which generation?": {
+        "question": "Super Computer belongs to which generation?",
+        "answer": "fifth",
+        "correct": 3,
+        "wrong": 0
+    },
+    "The fastest computer in the world id:": {
+        "question": "The fastest computer in the world is:",
+        "answer": "Super Computer",
+        "correct": 2,
+        "wrong": 0
+    },
+    "why we use loops in our programs?": {
+        "question": "why we use loops in our programs?",
+        "answer": "For iteration",
+        "correct": 1,
+        "wrong": 0
+    }
+}
